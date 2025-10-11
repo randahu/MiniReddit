@@ -1,0 +1,4 @@
+/Users/randahussein/RiderProjects/miniprojekt1/Shared/obj/Debug/net9.0/Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/randahussein/RiderProjects/miniprojekt1/Shared/obj/Debug/net9.0/Shared.AssemblyInfoInputs.cache
+/Users/randahussein/RiderProjects/miniprojekt1/Shared/obj/Debug/net9.0/Shared.AssemblyInfo.cs
+/Users/randahussein/RiderProjects/miniprojekt1/Shared/obj/Debug/net9.0/Shared.csproj.CoreCompileInputs.cache
