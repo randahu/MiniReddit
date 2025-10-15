@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/randahussein/RiderProjects/miniprojekt1/Shared/Shared.csproj",
-      "projectName": "Shared",
-      "projectPath": "/Users/randahussein/RiderProjects/miniprojekt1/Shared/Shared.csproj",
+      "projectUniqueName": "/Users/randahussein/RiderProjects/MiniReddit/shared/shared.csproj",
+      "projectName": "shared",
+      "projectPath": "/Users/randahussein/RiderProjects/MiniReddit/shared/shared.csproj",
       "packagesPath": "/Users/randahussein/.nuget/packages/",
-      "outputPath": "/Users/randahussein/RiderProjects/miniprojekt1/Shared/obj/",
+      "outputPath": "/Users/randahussein/RiderProjects/MiniReddit/shared/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/randahussein/.nuget/NuGet/NuGet.Config"

@@ -21,6 +21,7 @@ builder.Services.AddCors(options =>
     });
 });
 
+
 // --- DbContext og DataService ---
 builder.Services.AddDbContext<AppContextDb>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("ContextSQLite")));

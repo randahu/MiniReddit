@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/randahussein/RiderProjects/miniprojekt1/projekt.Api/projekt.Api.csproj": {}
+    "/Users/randahussein/RiderProjects/MiniReddit/projekt.Api/projekt.Api.csproj": {}
   },
   "projects": {
-    "/Users/randahussein/RiderProjects/miniprojekt1/projekt.Api/projekt.Api.csproj": {
+    "/Users/randahussein/RiderProjects/MiniReddit/projekt.Api/projekt.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/randahussein/RiderProjects/miniprojekt1/projekt.Api/projekt.Api.csproj",
+        "projectUniqueName": "/Users/randahussein/RiderProjects/MiniReddit/projekt.Api/projekt.Api.csproj",
         "projectName": "projekt.Api",
-        "projectPath": "/Users/randahussein/RiderProjects/miniprojekt1/projekt.Api/projekt.Api.csproj",
+        "projectPath": "/Users/randahussein/RiderProjects/MiniReddit/projekt.Api/projekt.Api.csproj",
         "packagesPath": "/Users/randahussein/.nuget/packages/",
-        "outputPath": "/Users/randahussein/RiderProjects/miniprojekt1/projekt.Api/obj/",
+        "outputPath": "/Users/randahussein/RiderProjects/MiniReddit/projekt.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/randahussein/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/Users/randahussein/RiderProjects/miniprojekt1/Shared /Shared.csproj": {
-                "projectPath": "/Users/randahussein/RiderProjects/miniprojekt1/Shared /Shared.csproj"
+              "/Users/randahussein/RiderProjects/MiniReddit/Shared /Shared.csproj": {
+                "projectPath": "/Users/randahussein/RiderProjects/MiniReddit/Shared /Shared.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "/Users/randahussein/RiderProjects/miniprojekt1/Shared /Shared.csproj": {
+    "/Users/randahussein/RiderProjects/MiniReddit/Shared /Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/randahussein/RiderProjects/miniprojekt1/Shared /Shared.csproj",
+        "projectUniqueName": "/Users/randahussein/RiderProjects/MiniReddit/Shared /Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "/Users/randahussein/RiderProjects/miniprojekt1/Shared /Shared.csproj",
+        "projectPath": "/Users/randahussein/RiderProjects/MiniReddit/Shared /Shared.csproj",
         "packagesPath": "/Users/randahussein/.nuget/packages/",
-        "outputPath": "/Users/randahussein/RiderProjects/miniprojekt1/Shared /obj/",
+        "outputPath": "/Users/randahussein/RiderProjects/MiniReddit/Shared /obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/randahussein/.nuget/NuGet/NuGet.Config"
